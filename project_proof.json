@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-11-26T11:26:13.552789",
+    "project_folder": "C:\\Users\\Broukodrak\\Desktop\\broukos_coding_room\\schule\\Broucin_2025_11_26",
+    "project_folder_hash": "46953e0cc96733895561db94c8bf63b4c4fd2fba04abf1cc3deab656eaf9de75",
+    "python_executable": "C:\\Users\\Broukodrak\\Desktop\\broukos_coding_room\\schule\\Broucin_2025_11_26\\venv\\Scripts\\python.exe",
+    "python_version": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+    "public_ip": "195.39.44.178",
+    "local_ip": "172.16.2.132",
+    "unique_token": "4785e9a9a5bb8de0c47cbd881494a6464adce5941e60cd68f59cb8fac87752d0",
+    "system_info": {
+        "os": "Windows",
+        "os_version": "10.0.26200",
+        "machine": "AMD64",
+        "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD"
+    }
+}
